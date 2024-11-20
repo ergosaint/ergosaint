@@ -12,17 +12,18 @@ As a current IT Support Specialist and Information Technology student, my journe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ergosaint/SOC-Lab">SOC Lab-Azure</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Azure SOC Lab|
+| User and Domain Management                    | Active Directory Lab|
+| Basic Powershell Knowledge                    | Active Directory Lab|
+| Threat Detection and Remediation              | Vulnerability Management Lab|
+| TBD                  | TBD|
+
 
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- <a href="https://github.com/ergosaint/Elastic-Home-SIEM">Elastic SIEM</a>|
-- <a href="https://github.com/ergosaint/SOC-Lab">Microsoft Azure SOC Lab</a>|
-- 
+- <a href="https://github.com/ergosaint/Elastic-Home-SIEM">Elastic SIEM</a>
+- <a href="https://github.com/ergosaint/SOC-Lab">Microsoft Azure SOC Lab</a>
+- <a href="https://github.com/ergosaint/ActiveDirectoryLab">Active Directory Lab</a>
+- <a href="https://github.com/ergosaint/Vulnerability-Managment-Lab">Vulnerability Management Lab</a>
